@@ -382,7 +382,7 @@ code = "lookup lookup_1 {\012sub uni17BB by uni17BB.b;\012sub uni17BC by uni17BC
 name = lookup_1;
 },
 {
-code = "lookup lookup_10 {\012sub uni17D21798 by uni17D21798.b;\012sub uni17D217A0 by uni17D217A0.b;\012} lookup_10;\012";
+code = "lookup lookup_10 {\012sub uni17D21798 by uni17D21798.b;\012sub uni17D217A0 by uni17D217A0.b;\012sub uni17BB by uni17BB.left;\012sub uni17BC by uni17BC.left;\012sub uni17BD by uni17BD.left;\012} lookup_10;\012";
 name = lookup_10;
 },
 {
