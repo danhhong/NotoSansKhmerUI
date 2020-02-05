@@ -460,6 +460,10 @@ name = lookup_8;
 {
 code = "lookup lookup_9 {\012sub uni17D21789 by uni17D21789.a;\012sub uni17D21789.left by uni17D21789.a.left;\012} lookup_9;\012";
 name = lookup_9;
+},
+{
+code = "lookup lookup_22 {\012sub uni17BB.b by uni17BB;\012} lookup_22;";
+name = lookup_22;
 }
 );
 features = (
@@ -468,11 +472,11 @@ code = "script khmr;\012sub uni17B7 uni17CD by uni17B717CD;\012sub uni179A [uni1
 name = abvs;
 },
 {
-code = "script khmr;\012sub uni17D2 uni1780 by uni17D21780;\012sub uni17D2 uni1781 by uni17D21781;\012sub uni17D2 uni1782 by uni17D21782;\012sub uni17D2 uni1784 by uni17D21784;\012sub uni17D2 uni1785 by uni17D21785;\012sub uni17D2 uni1786 by uni17D21786;\012sub uni17D2 uni1787 by uni17D21787;\012sub uni17D2 uni1789 by uni17D21789;\012sub uni17D2 uni178A by uni17D2178A;\012sub uni17D2 uni178B by uni17D2178B;\012sub uni17D2 uni178C by uni17D2178C;\012sub uni17D2 uni178E by uni17D2178E;\012sub uni17D2 uni178F by uni17D2178F;\012sub uni17D2 uni1790 by uni17D21790;\012sub uni17D2 uni1791 by uni17D21791;\012sub uni17D2 uni1792 by uni17D21792;\012sub uni17D2 uni1793 by uni17D21793;\012sub uni17D2 uni1795 by uni17D21795;\012sub uni17D2 uni1796 by uni17D21796;\012sub uni17D2 uni1797 by uni17D21797;\012sub uni17D2 uni1798 by uni17D21798;\012sub uni17D2 uni179B by uni17D2179B;\012sub uni17D2 uni179C by uni17D2179C;\012sub uni17D2 uni17A0 by uni17D217A0;\012sub uni17D2 uni17A2 by uni17D217A2;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17BB uni17BC uni17BD]' lookup lookup_21 ;\012sub uni1789 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni1789 uni17C9 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni17A1 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni179F uni17CA' lookup lookup_2 [uni17B7 uni17B8 uni17B9 uni17BA] ;\012sub uni17A0 uni17CA' lookup lookup_2 [uni17B7 uni17B8 uni17B9 uni17BA] ;\012sub uni17CA' lookup lookup_2 uni17B6 uni17C6 ;\012sub uni179F uni17CA' lookup lookup_2 uni17BE ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17C9 uni17CA]' lookup lookup_3 [uni17B7 uni17B8 uni17B9 uni17BA] ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 [uni17B7 uni17B8 uni17B9 uni17BA] ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 [uni17B7.a uni17B8.a uni17B9.a uni17BA.a] ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 uni17BE ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 uni17C6 ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 uni17D0 ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 uni17B6 uni17C6 ;\012sub uni178E [uni17D2178A uni17D2178B uni17D2178C uni17D2178F uni17D217A0]' lookup lookup_5 ;\012sub uni178E [uni17BB uni17BC uni17BD]' lookup lookup_6 ;\012sub [uni17D2178A.n uni17D2178B.n uni17D2178C.n uni17D217A0.n] [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_7 ;\012sub uni179A [uni17D2178A uni17D2178F uni17D21797 uni17D21798]' lookup lookup_8 ;\012sub uni179C [uni17D2178A uni17D2178F uni17D21797 uni17D21798]' lookup lookup_8 ;\012sub uni1789.a [uni17D21789 uni17D21789.left]' lookup lookup_9 ;\012sub uni17D2179F [uni17D21798 uni17D217A0]' lookup lookup_10 ;\012sub uni17A1 [uni17D21798 uni17D217A0]' lookup lookup_10 ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BB.b ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BC.b ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BD.b ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_12 ;\012sub uni17A1 [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_12 ;\012sub uni1789.left [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_13 ;\012sub uni179A [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179A uni17C9.r [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179C [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179C uni17C9.r [uni17BC uni17BD]' lookup lookup_14 ;\012";
+code = "script khmr;\012sub uni17D2 uni1780 by uni17D21780;\012sub uni17D2 uni1781 by uni17D21781;\012sub uni17D2 uni1782 by uni17D21782;\012sub uni17D2 uni1784 by uni17D21784;\012sub uni17D2 uni1785 by uni17D21785;\012sub uni17D2 uni1786 by uni17D21786;\012sub uni17D2 uni1787 by uni17D21787;\012sub uni17D2 uni1789 by uni17D21789;\012sub uni17D2 uni178A by uni17D2178A;\012sub uni17D2 uni178B by uni17D2178B;\012sub uni17D2 uni178C by uni17D2178C;\012sub uni17D2 uni178E by uni17D2178E;\012sub uni17D2 uni178F by uni17D2178F;\012sub uni17D2 uni1790 by uni17D21790;\012sub uni17D2 uni1791 by uni17D21791;\012sub uni17D2 uni1792 by uni17D21792;\012sub uni17D2 uni1793 by uni17D21793;\012sub uni17D2 uni1795 by uni17D21795;\012sub uni17D2 uni1796 by uni17D21796;\012sub uni17D2 uni1797 by uni17D21797;\012sub uni17D2 uni1798 by uni17D21798;\012sub uni17D2 uni179B by uni17D2179B;\012sub uni17D2 uni179C by uni17D2179C;\012sub uni17D2 uni17A0 by uni17D217A0;\012sub uni17D2 uni17A2 by uni17D217A2;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17BB uni17BC uni17BD]' lookup lookup_21 ;\012sub uni1789 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni1789 uni17C9 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni17A1 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni179F uni17CA' lookup lookup_2 [uni17B7 uni17B8 uni17B9 uni17BA] ;\012sub uni17A0 uni17CA' lookup lookup_2 [uni17B7 uni17B8 uni17B9 uni17BA] ;\012sub uni17CA' lookup lookup_2 uni17B6 uni17C6 ;\012sub uni179F uni17CA' lookup lookup_2 uni17BE ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17C9 uni17CA]' lookup lookup_3 [uni17B7 uni17B8 uni17B9 uni17BA] ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 [uni17B7 uni17B8 uni17B9 uni17BA] ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 [uni17B7.a uni17B8.a uni17B9.a uni17BA.a] ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 uni17BE ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 uni17C6 ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 uni17D0 ;\012sub [uni17C9 uni17C9.r]' lookup lookup_4 uni17B6 uni17C6 ;\012sub uni178E [uni17D2178A uni17D2178B uni17D2178C uni17D2178F uni17D217A0]' lookup lookup_5 ;\012sub uni178E [uni17BB uni17BC uni17BD]' lookup lookup_6 ;\012sub [uni17D2178A.n uni17D2178B.n uni17D2178C.n uni17D217A0.n] [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_7 ;\012sub uni179A [uni17D2178A uni17D2178F uni17D21797 uni17D21798]' lookup lookup_8 ;\012sub uni179C [uni17D2178A uni17D2178F uni17D21797 uni17D21798]' lookup lookup_8 ;\012sub uni1789.a [uni17D21789 uni17D21789.left]' lookup lookup_9 ;\012sub uni17D2179F [uni17D21798 uni17D217A0]' lookup lookup_10 ;\012sub uni17A1 [uni17D21798 uni17D217A0]' lookup lookup_10 ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BB.b ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BC.b ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BD.b ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_12 ;\012sub uni17A1 [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_12 ;\012sub uni179A [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179A uni17C9.r [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179C [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179C uni17C9.r [uni17BC uni17BD]' lookup lookup_14 ;\012";
 name = blwf;
 },
 {
-code = "script khmr;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17BB uni17BC uni17BD]' lookup lookup_21 ;\012sub uni1789 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni1789 uni17C9 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni17A1 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni1794' lookup lookup_15 uni17B6 ;\012sub uni1794' lookup lookup_15 uni17C4 ;\012sub uni1794' lookup lookup_15 uni17C5 ;\012sub uni1794' lookup lookup_15 uni17C9 uni17B6 ;\012sub uni1794' lookup lookup_15 uni17C9 uni17C4 ;\012sub uni1794' lookup lookup_15 uni17C9 uni17C5 ;\012sub uni1794' lookup lookup_15 uni17CA uni17B6 ;\012sub uni1794' lookup lookup_15 uni17CA uni17C4 ;\012sub uni1794' lookup lookup_15 uni17CA uni17C5 ;\012sub uni1794' lookup lookup_15 [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] uni17B6 ;\012sub uni1794' lookup lookup_15 [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] uni17C4 ;\012sub uni1794' lookup lookup_15 [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] uni17C5 ;\012sub uni1794' lookup lookup_15 uni17BB uni17B6 ;\012sub uni1794' lookup lookup_15 uni17BB uni17C4 ;\012sub uni1794' lookup lookup_15 uni17BB uni17C5 ;\012sub uni17D2179A' lookup lookup_16 [uni1780 uni1781 uni1782 uni1784 uni1785 uni1786 uni1787 uni178A uni178B uni178C uni178F uni1790 uni1791 uni1792 uni1793 uni1794 uni1795 uni1796 uni1797 uni1798 uni17A2] [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] ;\012sub uni17CA [uni17B7 uni17B8 uni17B9 uni17BA uni17BE uni17C6]' lookup lookup_17 ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17C9 uni17CA]' lookup lookup_3 [uni17B7 uni17B8 uni17B9 uni17BA] ;\012sub uni1789' lookup lookup_18 [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] ;\012sub uni1789' lookup lookup_18 [uni17D21780.left uni17D21781.left uni17D21782.left uni17D21784.left uni17D21785.left uni17D21786.left uni17D21787.left uni17D21789.left uni17D21789.a.left uni17D2178A.left uni17D2178B.left uni17D2178C.left uni17D2178E.left uni17D2178F.left uni17D21790.left uni17D21791.left uni17D21792.left uni17D21793.left uni17D21795.left uni17D21796.left uni17D21797.left uni17D21798.left uni17D2179B.left uni17D2179C.left uni17D217A0.left uni17D217A2.left] ;\012sub uni1789' lookup lookup_18 [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] ;\012sub uni1789.a [uni17D21789 uni17D21789.left]' lookup lookup_9 ;\012sub uni17D2179F [uni17D21798 uni17D217A0]' lookup lookup_10 ;\012sub uni17A1 [uni17D21798 uni17D217A0]' lookup lookup_10 ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BB.b ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BC.b ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BD.b ;\012sub uni1789' lookup lookup_19 uni17BB.b ;\012sub uni1789' lookup lookup_19 uni17BC.b ;\012sub uni1789' lookup lookup_19 uni17BD.b ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_12 ;\012sub uni17A1 [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_12 ;\012sub uni17D21799 [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_12 ;\012sub uni1789.left [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_13 ;\012sub uni179A [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179A uni17C9.r [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179C [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179C uni17C9.r [uni17BC uni17BD]' lookup lookup_14 ;\012";
+code = "script khmr;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17BB uni17BC uni17BD]' lookup lookup_21 ;\012sub uni1789 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni1789 uni17C9 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni17A1 [uni17BB uni17BC uni17BD]' lookup lookup_1 ;\012sub uni1794' lookup lookup_15 uni17B6 ;\012sub uni1794' lookup lookup_15 uni17C4 ;\012sub uni1794' lookup lookup_15 uni17C5 ;\012sub uni1794' lookup lookup_15 uni17C9 uni17B6 ;\012sub uni1794' lookup lookup_15 uni17C9 uni17C4 ;\012sub uni1794' lookup lookup_15 uni17C9 uni17C5 ;\012sub uni1794' lookup lookup_15 uni17CA uni17B6 ;\012sub uni1794' lookup lookup_15 uni17CA uni17C4 ;\012sub uni1794' lookup lookup_15 uni17CA uni17C5 ;\012sub uni1794' lookup lookup_15 [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] uni17B6 ;\012sub uni1794' lookup lookup_15 [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] uni17C4 ;\012sub uni1794' lookup lookup_15 [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] uni17C5 ;\012sub uni1794' lookup lookup_15 uni17BB uni17B6 ;\012sub uni1794' lookup lookup_15 uni17BB uni17C4 ;\012sub uni1794' lookup lookup_15 uni17BB uni17C5 ;\012sub uni17D2179A' lookup lookup_16 [uni1780 uni1781 uni1782 uni1784 uni1785 uni1786 uni1787 uni178A uni178B uni178C uni178F uni1790 uni1791 uni1792 uni1793 uni1794 uni1795 uni1796 uni1797 uni1798 uni17A2] [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] ;\012sub uni17CA [uni17B7 uni17B8 uni17B9 uni17BA uni17BE uni17C6]' lookup lookup_17 ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17C9 uni17CA]' lookup lookup_3 [uni17B7 uni17B8 uni17B9 uni17BA] ;\012sub uni1789' lookup lookup_18 [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2] ;\012sub uni1789' lookup lookup_18 [uni17D21780.left uni17D21781.left uni17D21782.left uni17D21784.left uni17D21785.left uni17D21786.left uni17D21787.left uni17D21789.left uni17D21789.a.left uni17D2178A.left uni17D2178B.left uni17D2178C.left uni17D2178E.left uni17D2178F.left uni17D21790.left uni17D21791.left uni17D21792.left uni17D21793.left uni17D21795.left uni17D21796.left uni17D21797.left uni17D21798.left uni17D2179B.left uni17D2179C.left uni17D217A0.left uni17D217A2.left] ;\012sub uni1789' lookup lookup_18 [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] ;\012sub uni1789.a [uni17D21789 uni17D21789.left]' lookup lookup_9 ;\012sub uni17D2179F [uni17D21798 uni17D217A0]' lookup lookup_10 ;\012sub uni17A1 [uni17D21798 uni17D217A0]' lookup lookup_10 ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BB.b ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BC.b ;\012sub [uni17D21780 uni17D21781 uni17D21782 uni17D21784 uni17D21785 uni17D21786 uni17D21787 uni17D21789 uni17D21789.a uni17D2178A uni17D2178B uni17D2178C uni17D2178E uni17D2178F uni17D21790 uni17D21791 uni17D21792 uni17D21793 uni17D21795 uni17D21796 uni17D21797 uni17D21798 uni17D2179B uni17D2179C uni17D217A0 uni17D217A2]' lookup lookup_11 uni17BD.b ;\012sub uni1789' lookup lookup_19 [uni17BB.b uni17BC.b uni17BD.b] ;\012sub uni1789' lookup lookup_19 uni17C9 [uni17BB.b uni17BC.b uni17BD.b] ;\012sub uni1789.left uni17BB.b' lookup lookup_22 ;\012sub uni1789.left uni17C9 uni17BB.b' lookup lookup_22 ;\012sub [uni17D21783 uni17D21788 uni17D2178D uni17D21794 uni17D21799 uni17D2179F] [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_12 ;\012sub uni17A1 [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_12 ;\012sub uni17D21799 [uni17BB.b uni17BC.b uni17BD.b]' lookup lookup_12 ;\012\012sub uni179A [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179A uni17C9.r [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179C [uni17BC uni17BD]' lookup lookup_14 ;\012sub uni179C uni17C9.r [uni17BC uni17BD]' lookup lookup_14 ;\012";
 name = clig;
 },
 {
@@ -48133,7 +48137,7 @@ note = uni17D217A0.b;
 },
 {
 glyphname = uni17D21780.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:33:48 +0000";
 layers = (
 {
 components = (
@@ -48179,7 +48183,7 @@ width = 0;
 components = (
 {
 name = uni17D21780;
-transform = "{1, 0, 0, 1, -250, 0}";
+transform = "{1, 0, 0, 1, -300, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48190,7 +48194,7 @@ note = uni17D21780.left;
 },
 {
 glyphname = uni17D21781.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:33:57 +0000";
 layers = (
 {
 components = (
@@ -48236,7 +48240,7 @@ width = 0;
 components = (
 {
 name = uni17D21781;
-transform = "{1, 0, 0, 1, -250, 0}";
+transform = "{1, 0, 0, 1, -300, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48247,7 +48251,7 @@ note = uni17D21781.left;
 },
 {
 glyphname = uni17D21782.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:34:05 +0000";
 layers = (
 {
 components = (
@@ -48293,7 +48297,7 @@ width = 0;
 components = (
 {
 name = uni17D21782;
-transform = "{1, 0, 0, 1, -250, 0}";
+transform = "{1, 0, 0, 1, -300, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48304,7 +48308,7 @@ note = uni17D21782.left;
 },
 {
 glyphname = uni17D21784.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:34:11 +0000";
 layers = (
 {
 components = (
@@ -48350,7 +48354,7 @@ width = 0;
 components = (
 {
 name = uni17D21784;
-transform = "{1, 0, 0, 1, -240, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48361,7 +48365,7 @@ note = uni17D21784.left;
 },
 {
 glyphname = uni17D21785.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:34:17 +0000";
 layers = (
 {
 components = (
@@ -48407,7 +48411,7 @@ width = 0;
 components = (
 {
 name = uni17D21785;
-transform = "{1, 0, 0, 1, -250, 0}";
+transform = "{1, 0, 0, 1, -300, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48418,7 +48422,7 @@ note = uni17D21785.left;
 },
 {
 glyphname = uni17D21786.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:34:27 +0000";
 layers = (
 {
 components = (
@@ -48464,7 +48468,7 @@ width = 0;
 components = (
 {
 name = uni17D21786;
-transform = "{1, 0, 0, 1, -220, 0}";
+transform = "{1, 0, 0, 1, -270, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48475,7 +48479,7 @@ note = uni17D21786.left;
 },
 {
 glyphname = uni17D21787.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:34:39 +0000";
 layers = (
 {
 components = (
@@ -48521,7 +48525,7 @@ width = 0;
 components = (
 {
 name = uni17D21787;
-transform = "{1, 0, 0, 1, -310, 0}";
+transform = "{1, 0, 0, 1, -360, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48532,7 +48536,7 @@ note = uni17D21787.left;
 },
 {
 glyphname = uni17D21789.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:34:56 +0000";
 layers = (
 {
 components = (
@@ -48578,7 +48582,7 @@ width = 0;
 components = (
 {
 name = uni17D21789;
-transform = "{1, 0, 0, 1, -220, 0}";
+transform = "{1, 0, 0, 1, -340, -1}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48589,7 +48593,7 @@ note = uni17D21789.left;
 },
 {
 glyphname = uni17D21789.a.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:35:23 +0000";
 layers = (
 {
 components = (
@@ -48635,7 +48639,7 @@ width = 0;
 components = (
 {
 name = uni17D21789.a;
-transform = "{1, 0, 0, 1, -110, 0}";
+transform = "{1, 0, 0, 1, -160, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48646,7 +48650,7 @@ note = uni17D21789.a.left;
 },
 {
 glyphname = uni17D2178A.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:35:30 +0000";
 layers = (
 {
 components = (
@@ -48692,7 +48696,7 @@ width = 0;
 components = (
 {
 name = uni17D2178A;
-transform = "{1, 0, 0, 1, -260, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48703,7 +48707,7 @@ note = uni17D2178A.left;
 },
 {
 glyphname = uni17D2178B.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:35:36 +0000";
 layers = (
 {
 components = (
@@ -48749,7 +48753,7 @@ width = 0;
 components = (
 {
 name = uni17D2178B;
-transform = "{1, 0, 0, 1, -270, 0}";
+transform = "{1, 0, 0, 1, -320, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48760,7 +48764,7 @@ note = uni17D2178B.left;
 },
 {
 glyphname = uni17D2178C.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:36:00 +0000";
 layers = (
 {
 components = (
@@ -48806,7 +48810,7 @@ width = 0;
 components = (
 {
 name = uni17D2178C;
-transform = "{1, 0, 0, 1, -260, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48817,7 +48821,7 @@ note = uni17D2178C.left;
 },
 {
 glyphname = uni17D2178E.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:36:07 +0000";
 layers = (
 {
 components = (
@@ -48863,7 +48867,7 @@ width = 0;
 components = (
 {
 name = uni17D2178E;
-transform = "{1, 0, 0, 1, -250, 0}";
+transform = "{1, 0, 0, 1, -300, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48874,7 +48878,7 @@ note = uni17D2178E.left;
 },
 {
 glyphname = uni17D2178F.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:36:13 +0000";
 layers = (
 {
 components = (
@@ -48920,7 +48924,7 @@ width = 0;
 components = (
 {
 name = uni17D2178F;
-transform = "{1, 0, 0, 1, -260, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48931,7 +48935,7 @@ note = uni17D2178F.left;
 },
 {
 glyphname = uni17D21790.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:36:19 +0000";
 layers = (
 {
 components = (
@@ -48977,7 +48981,7 @@ width = 0;
 components = (
 {
 name = uni17D21790;
-transform = "{1, 0, 0, 1, -252, 0}";
+transform = "{1, 0, 0, 1, -302, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -48988,7 +48992,7 @@ note = uni17D21790.left;
 },
 {
 glyphname = uni17D21791.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:36:26 +0000";
 layers = (
 {
 components = (
@@ -49034,7 +49038,7 @@ width = 0;
 components = (
 {
 name = uni17D21791;
-transform = "{1, 0, 0, 1, -260, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -49045,7 +49049,7 @@ note = uni17D21791.left;
 },
 {
 glyphname = uni17D21792.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:36:32 +0000";
 layers = (
 {
 components = (
@@ -49091,7 +49095,7 @@ width = 0;
 components = (
 {
 name = uni17D21792;
-transform = "{1, 0, 0, 1, -260, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -49102,7 +49106,7 @@ note = uni17D21792.left;
 },
 {
 glyphname = uni17D21793.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:36:38 +0000";
 layers = (
 {
 components = (
@@ -49148,7 +49152,7 @@ width = 0;
 components = (
 {
 name = uni17D21793;
-transform = "{1, 0, 0, 1, -260, 0}";
+transform = "{1, 0, 0, 1, -310, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -49159,7 +49163,7 @@ note = uni17D21793.left;
 },
 {
 glyphname = uni17D21795.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:36:43 +0000";
 layers = (
 {
 components = (
@@ -49205,7 +49209,7 @@ width = 0;
 components = (
 {
 name = uni17D21795;
-transform = "{1, 0, 0, 1, -260, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -49216,7 +49220,7 @@ note = uni17D21795.left;
 },
 {
 glyphname = uni17D21796.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:36:48 +0000";
 layers = (
 {
 components = (
@@ -49262,7 +49266,7 @@ width = 0;
 components = (
 {
 name = uni17D21796;
-transform = "{1, 0, 0, 1, -260, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -49273,7 +49277,7 @@ note = uni17D21796.left;
 },
 {
 glyphname = uni17D21797.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:36:55 +0000";
 layers = (
 {
 components = (
@@ -49319,7 +49323,7 @@ width = 0;
 components = (
 {
 name = uni17D21797;
-transform = "{1, 0, 0, 1, -210, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -49330,7 +49334,7 @@ note = uni17D21797.left;
 },
 {
 glyphname = uni17D21798.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:37:01 +0000";
 layers = (
 {
 components = (
@@ -49376,7 +49380,7 @@ width = 0;
 components = (
 {
 name = uni17D21798;
-transform = "{1, 0, 0, 1, -270, 0}";
+transform = "{1, 0, 0, 1, -320, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -49387,7 +49391,7 @@ note = uni17D21798.left;
 },
 {
 glyphname = uni17D2179B.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:37:06 +0000";
 layers = (
 {
 components = (
@@ -49433,7 +49437,7 @@ width = 0;
 components = (
 {
 name = uni17D2179B;
-transform = "{1, 0, 0, 1, -280, 0}";
+transform = "{1, 0, 0, 1, -330, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -49444,7 +49448,7 @@ note = uni17D2179B.left;
 },
 {
 glyphname = uni17D2179C.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:37:11 +0000";
 layers = (
 {
 components = (
@@ -49490,7 +49494,7 @@ width = 0;
 components = (
 {
 name = uni17D2179C;
-transform = "{1, 0, 0, 1, -260, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -49501,7 +49505,7 @@ note = uni17D2179C.left;
 },
 {
 glyphname = uni17D217A0.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:37:16 +0000";
 layers = (
 {
 components = (
@@ -49547,7 +49551,7 @@ width = 0;
 components = (
 {
 name = uni17D217A0;
-transform = "{1, 0, 0, 1, -280, 0}";
+transform = "{1, 0, 0, 1, -330, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
@@ -49558,7 +49562,7 @@ note = uni17D217A0.left;
 },
 {
 glyphname = uni17D217A2.left;
-lastChange = "2020-02-04 08:34:44 +0000";
+lastChange = "2020-02-05 03:37:22 +0000";
 layers = (
 {
 components = (
@@ -49604,7 +49608,7 @@ width = 0;
 components = (
 {
 name = uni17D217A2;
-transform = "{1, 0, 0, 1, -240, 0}";
+transform = "{1, 0, 0, 1, -290, 0}";
 }
 );
 layerId = "3BE6379C-89A1-45B5-97C8-F079248A4F49";
